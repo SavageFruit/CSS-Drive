@@ -2,7 +2,14 @@
 Get fonts, styles and more!
 
 ## Fonts
-Use these fonts in your HTML:
+Use these fonts in your HTML
+
+### HTML Head Link
+```html
+<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/fonts.css">
+```
+
+### CSS
 ```css
 font-family: 'Anton', sans-serif; /* Anton */
 font-family: 'Barlow', sans-serif; /* Barlow */
@@ -34,4 +41,13 @@ font-family: 'Xanh Mono', monospace; /* Xanh Mono */
 ```
 
 ## Bootstrap
+Use Bootstrap straight from your code.
+
+### Version
 > Version: 5.0.0-alpha2 - {Bootstrap 5}
+
+### HTML Head Link
+```html
+<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/bootstrap.css">
+<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/chartist.css">
+```
