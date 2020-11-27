@@ -34,5 +34,4 @@ font-family: 'Xanh Mono', monospace; /* Xanh Mono */
 ```
 
 ## Bootstrap
-Version: 5.0.0-alpha2
-This is Bootstrap 5.
+> Version: 5.0.0-alpha2 - {Bootstrap 5}
