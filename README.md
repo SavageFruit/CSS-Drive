@@ -48,6 +48,6 @@ Use Bootstrap straight from your code.
 
 ### HTML Head Link
 ```html
-<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/bootstrap.css">
-<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/chartist.css">
+<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/bootstrap.min.css">
+<link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/chartist.min.css">
 ```
