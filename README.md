@@ -1,6 +1,29 @@
 # CSS-Drive
 Get fonts, styles and more!
 
+# Get started
+> We've put together an HTML file to get you started!
+> Make sure to read the rest of the README file to understand what you can do!
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A brilliant website made using CSS Drive">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Amazing CSS Drive website</title>
+    
+    <link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/fonts.css">
+    <link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/bootstrap.min.css">
+    <link rel="stylesheet" href="https://savagefruit.github.io/CSS-Drive/chartist.min.css">
+  </head>
+  <body>
+    <p>Hello world!</p>
+  </body>
+</html>
+```
+
 ## Fonts
 Use these fonts in your HTML
 
